@@ -9,7 +9,6 @@ public class MyBootProjectApplication {
 	public static void main(String[] args) {
 
 		SpringApplication.run(MyBootProjectApplication.class, args);
-		Car car = new Car(new Engine());
 	}
 
 }
